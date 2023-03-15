@@ -1,4 +1,4 @@
-## Slack Notification API for HoneyBadger
+## Slack Notification API
 Single endpoint API that posts a message to a slack channel given a Slack Webhook
 
 ## How to run locally?
